@@ -1,0 +1,36 @@
+body {
+    background: rgb(135, 158, 231);
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: white;
+    width: 500px;
+    padding: 25px ;
+    border-radius: 8px;
+    margin: auto;
+}
+
+#sexodiv {
+    padding: 12px ;
+
+}
+
+footer {
+    text-align: center;
+}
+#botao {
+    text-align: center;
+    
+}
+#res {
+    margin-top: 3%;
+}
+.foto span {
+    display: block;
+    text-align: center;
+    margin-top: 5%;
+}
